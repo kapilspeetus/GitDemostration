@@ -1,0 +1,8 @@
+								*********** GitDemostration ***********
+
+Below are the team/branch.
+	1. FE Dev : Front End Developer team
+	2. BE Dev : Back End Developer team
+	3. BL Dev : Business logic Developer team
+
+Thanks
